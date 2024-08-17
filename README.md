@@ -16,7 +16,7 @@ Project ini berasal dari dicoding untuk kegiatan [Dicoding](https://www.dicoding
  - Membuat file baru untuk dasboard lalu dideploy pada platform [streamlit](https://share.streamlit.io/)
 
 ## 2. Tahap Memulai
-### `Project.ipynb`
+### `Notebook.ipynb`
 1. Unduh project ini
 2. Buka IDE yang digunakan
 3. Membuat notebook baru
