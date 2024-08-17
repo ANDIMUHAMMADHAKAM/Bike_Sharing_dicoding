@@ -1,6 +1,4 @@
-pandas
-matplotlib 
+pandas 
 streamlit 
-seaborn as
 warnings
 plotly
