@@ -1,6 +1,6 @@
 # Bike Rentals - Final Project Data Analytics
 
-Project ini berasal dari dicoding untuk kegiatan [Dicoding](https://www.dicoding.com/) for University. Pada file notebook, saya memberikan 6 pertanyaan yang bisa dijadikan bahan Explaratory Analysis dan juga menampilkan visualisasi data untuk masing-masing pertanyaan tersebut. Untuk melihat hasil tersebut, dapat dilihat [disini](https://bike-sharing-project-dicoding.streamlit.app/).
+Project ini berasal dari dicoding untuk kegiatan [Dicoding](https://www.dicoding.com/) for University. Pada file notebook, saya memberikan 6 pertanyaan yang bisa dijadikan bahan Explaratory Analysis dan juga menampilkan visualisasi data untuk masing-masing pertanyaan tersebut. Untuk melihat hasil tersebut, dapat dilihat [disini](https://bikesharingdicoding-project.streamlit.app/).
 
 ## 1. Urutan Pengerjaan
 1. Data Wrangling: 
