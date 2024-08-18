@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import mathplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import warnings
 from datetime import datetime
 import plotly.express as px
